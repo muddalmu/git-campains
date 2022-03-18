@@ -1,0 +1,2 @@
+# git-campains
+Campaign management
